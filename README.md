@@ -14,9 +14,9 @@ If you feel you have something to add to this project, feel free to make a pull 
 #### Getting Started
 
 ```
-git clone git@github.com:
+git clone https://github.com/francisngo/react_timer.git
 
-cd pomodoro-react
+cd react_timer
 
 npm install
 

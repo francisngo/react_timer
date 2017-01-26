@@ -1,7 +1,7 @@
 {
   "name": "Countdoro",
   "version": "1.0.0",
-  "description": "Simple Stopwatch/Countdown App",
+  "description": "A simple countdown timer and stopwatch built with ReactJS",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
