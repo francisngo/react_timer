@@ -1,6 +1,6 @@
 # The Countdown
 
-A simple countdown timer and stopwatch built with ReactJS. [See it in action](https://pacific-spire-58132.herokuapp.com/).
+A simple countdown timer and stopwatch built with ReactJS. [See it in action](https://timereact.herokuapp.com/).
 
 ## What is this?
 
